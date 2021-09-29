@@ -13,4 +13,5 @@ j'ai appris  à vérifier la conception à l'aide d'une simulation et d'un analy
 <h3># QSYS (Quartus) </h3>
 <h3># Windows 10</h3>
 <h3># VHDL</h3>
+<h3># Verilog</h3>
 <h3># C/C++ Programing</h3>
