@@ -22,3 +22,6 @@ peuvent être utilisés pour diriger la compilation et la synthèse du noyau mat
 entre le processeur et la logique matérielle.
 De plus, dans ce cours, nous allons nous concentrer sur les infrastructures distribuées et hétérogènes, en présentant comment donner vie à vos solutions en utilisant 
 les instances Amazon EC2 F1.
+# certificat
+
+<img align="left" width="1000" height="700" src="../Developing FPGA-accelerated cloud applications with SDAccel: Theory/Coursera YSGPHCWVQFV6_page-0001.jpg">
