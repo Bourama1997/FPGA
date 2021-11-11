@@ -1,0 +1,17 @@
+module FullAdd4( A,B,Cin,Sum,Cout);                	
+    input [3:0] A, B; 
+    input Cin; 			
+    output [3:0] Sum;
+    output Cout;
+
+      wire [3:0] A, B;
+      wire Cin ;
+      reg [3:0] Sum;
+      reg Cout ;
+
+ always @(A or B or Cin)
+  begin 
+   Sum = A ^ B ^ Cin; 
+   Cout = A&B | (A^B) & Cin; 
+  end 
+endmodule

@@ -1,0 +1,15 @@
+C:/Users/admin/Desktop/week1/week2/1/AAC2M3P1_tb.vp {1 {vlog -work work C:/Users/admin/Desktop/week1/week2/1/AAC2M3P1_tb.vp
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AAC2M3P1_tb
+
+Top level modules:
+	AAC2M3P1_tb
+
+} {} {}} C:/Users/admin/Desktop/week1/week2/1/AAC2M3P1.v {1 {vlog -work work C:/Users/admin/Desktop/week1/week2/1/AAC2M3P1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Comparator2
+
+Top level modules:
+	Comparator2
+
+} {} {}}

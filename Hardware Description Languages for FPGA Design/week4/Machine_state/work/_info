@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/admin/Desktop/fpga/week4/Memory
+vAAC2M4P3_tb
+!s110 1606438258
+!i10b 1
+!s100 `^iQmJW9nEAmY@Cl5>XZ?0
+ITiX:L>7CkbC0k:7CD]:2?1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/admin/Desktop/fpga/week4/Machine_state
+w1573416026
+8C:/Users/admin/Desktop/fpga/week4/Machine_state/AAC2M4P3_tb.vp
+FC:/Users/admin/Desktop/fpga/week4/Machine_state/AAC2M4P3_tb.vp
+L0 65
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1606438257.000000
+!s107 C:/Users/admin/Desktop/fpga/week4/Machine_state/AAC2M4P3_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/admin/Desktop/fpga/week4/Machine_state/AAC2M4P3_tb.vp|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@a@a@c2@m4@p3_tb
+vFSM
+!s110 1606440081
+!i10b 1
+!s100 zLgM<BFMS9F=8_MM0K;7z3
+IICDznZkPF:C2kaYg;V[722
+R0
+R1
+w1606440071
+8C:\Users\admin\Desktop\fpga\week4\Machine_state\AAC2M4P3.v
+FC:\Users\admin\Desktop\fpga\week4\Machine_state\AAC2M4P3.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1606440081.000000
+!s107 C:\Users\admin\Desktop\fpga\week4\Machine_state\AAC2M4P3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\admin\Desktop\fpga\week4\Machine_state\AAC2M4P3.v|
+!i113 1
+R3
+R4
+n@f@s@m

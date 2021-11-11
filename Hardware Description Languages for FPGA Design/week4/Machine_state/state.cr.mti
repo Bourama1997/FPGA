@@ -1,0 +1,15 @@
+C:/Users/admin/Desktop/fpga/week4/Machine_state/AAC2M4P3.v {1 {vlog -work work -stats=none {C:\Users\admin\Desktop\fpga\week4\Machine_state\AAC2M4P3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} C:/Users/admin/Desktop/fpga/week4/Machine_state/AAC2M4P3_tb.vp {1 {vlog -work work -stats=none C:/Users/admin/Desktop/fpga/week4/Machine_state/AAC2M4P3_tb.vp
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AAC2M4P3_tb
+
+Top level modules:
+	AAC2M4P3_tb
+
+} {} {}}

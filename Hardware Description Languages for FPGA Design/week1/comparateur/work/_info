@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\admin\Desktop\week1\1\simulation\modelsim
+Eaac2m1p1_tb
+Z0 w1573302070
+Z1 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\admin\Desktop\week1\comparateur
+Z6 8C:/Users/admin/Desktop/week1/comparateur/AAC2M1P1_tb.vhd
+Z7 FC:/Users/admin/Desktop/week1/comparateur/AAC2M1P1_tb.vhd
+l0
+L52
+VoC4XWCDc=mXo3F2Q9:6>j2
+!s100 L_ZGikDQKRDG]UaLD]IH]3
+Z8 OV;C;10.1d;51
+32
+!i10b 1
+Z9 !s108 1604168390.999000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/admin/Desktop/week1/comparateur/AAC2M1P1_tb.vhd|
+Z11 !s107 C:/Users/admin/Desktop/week1/comparateur/AAC2M1P1_tb.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+Z14 DEx4 work 11 aac2m1p1_tb 0 22 oC4XWCDc=mXo3F2Q9:6>j2
+l135
+L61
+Z15 V@G=8dV?cTV2Zm3jkBeaiB1
+Z16 !s100 0QUXbKBa`hEk8i;UOGPzY3
+R8
+32
+!i10b 1
+R9
+R10
+R11
+R12
+R13
+Ecomparator2
+Z17 w1604168082
+R3
+R4
+R5
+Z18 8C:/Users/admin/Desktop/week1/comparateur/AAC2M1P1.vhd
+Z19 FC:/Users/admin/Desktop/week1/comparateur/AAC2M1P1.vhd
+l0
+L40
+V<[2LhnT9ejjGLFhci=E4O1
+R8
+32
+Z20 !s108 1604168390.130000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/admin/Desktop/week1/comparateur/AAC2M1P1.vhd|
+Z22 !s107 C:/Users/admin/Desktop/week1/comparateur/AAC2M1P1.vhd|
+R12
+R13
+!s100 mGC97PLKD5PRHOB<kNDL>2
+!i10b 1
+Aarch
+R3
+R4
+DEx4 work 11 comparator2 0 22 <[2LhnT9ejjGLFhci=E4O1
+l49
+L45
+VHl5ABVcW?@mgoVo>zdOSB3
+R8
+32
+R20
+R21
+R22
+R12
+R13
+!s100 oO5^JjB9:QYPm2iE1DoR42
+!i10b 1

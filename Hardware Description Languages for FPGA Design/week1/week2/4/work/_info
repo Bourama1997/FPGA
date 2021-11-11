@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\admin\Desktop\fpga\week1\week2\3
+vAAC2M3H1_tb
+Z1 !s100 XeVXfljHlzWY8gXEk1eBA1
+Z2 IoS]cW?Y2;NA=[:@_KbKL21
+Z3 VA@AhUiRKUk>Z9ilW[9XED2
+Z4 dC:\Users\admin\Desktop\fpga\week1\week2\4
+Z5 w1573414360
+Z6 8C:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1_tb.vp
+Z7 FC:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1_tb.vp
+L0 64
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1_tb.vp|
+Z10 o-work work -O0
+Z11 n@a@a@c2@m3@h1_tb
+Z12 !s108 1605720237.181000
+Z13 !s107 C:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1_tb.vp|
+!i10b 1
+!s85 0
+!s101 -O0
+vAdder_1bit
+Z14 IH5M8WCB8BX32[8h`iSzEK0
+Z15 Vm3k1Q:7QoBoT]ifXBlgMo3
+R4
+Z16 w1605719886
+Z17 8C:/Users/admin/Desktop/fpga/week1/week2/4/adder_1_bit.v
+Z18 FC:/Users/admin/Desktop/fpga/week1/week2/4/adder_1_bit.v
+L0 1
+R8
+r1
+31
+R10
+Z19 n@adder_1bit
+!i10b 1
+Z20 !s100 9F6<SJ:dz^BJCjMEG2JSa2
+!s85 0
+Z21 !s108 1605720238.522000
+Z22 !s107 C:/Users/admin/Desktop/fpga/week1/week2/4/adder_1_bit.v|
+Z23 !s90 -reportprogress|300|-work|work|C:/Users/admin/Desktop/fpga/week1/week2/4/adder_1_bit.v|
+!s101 -O0
+vFullAdd4
+!i10b 1
+!s100 U9S>bOLhEA1H4E<hZz8SF1
+I50ISOMgF9mfc_YUf:FT6T2
+Z24 ViJ^;iSD>O>IzO8RjI4P9X2
+R4
+w1605720389
+Z25 8C:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1.v
+Z26 FC:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1.v
+L0 39
+R8
+r1
+!s85 0
+31
+!s108 1605720406.988000
+!s107 C:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1.v|
+Z27 !s90 -reportprogress|300|-work|work|C:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1.v|
+!s101 -O0
+R10
+Z28 n@full@add4

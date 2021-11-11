@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\admin\Desktop\week1\majority
+Eaac2m1h1_tb
+Z0 w1573329334
+Z1 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 dC:\Users\admin\Desktop\week1\add_binary
+Z8 8C:/Users/admin/Desktop/week1/add_binary/AAC2M1H1_tb.vhd
+Z9 FC:/Users/admin/Desktop/week1/add_binary/AAC2M1H1_tb.vhd
+l0
+L54
+VbCSY0^_cQ8n`ZWAfGK=6P0
+!s100 3@Yd8N9n`SG[Z_e_UBH;H1
+Z10 OV;C;10.1d;51
+32
+!i10b 1
+Z11 !s108 1604178470.781000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/admin/Desktop/week1/add_binary/AAC2M1H1_tb.vhd|
+Z13 !s107 C:/Users/admin/Desktop/week1/add_binary/AAC2M1H1_tb.vhd|
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 11 aac2m1h1_tb 0 22 bCSY0^_cQ8n`ZWAfGK=6P0
+l134
+L62
+VHYS;KYWZ>0I7Z`30I[M_21
+!s100 mY7oozQVHF@@;R0[@Ggc23
+R10
+32
+!i10b 1
+R11
+R12
+R13
+R14
+R15
+Efulladd
+Z16 w1604178048
+R5
+R6
+R7
+Z17 8C:/Users/admin/Desktop/week1/add_binary/AAC2M1H1.vhd
+Z18 FC:/Users/admin/Desktop/week1/add_binary/AAC2M1H1.vhd
+l0
+L42
+VRH_eY=igW?^mR8;ZEd5_62
+R10
+32
+Z19 !s108 1604178470.323000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/admin/Desktop/week1/add_binary/AAC2M1H1.vhd|
+Z21 !s107 C:/Users/admin/Desktop/week1/add_binary/AAC2M1H1.vhd|
+R14
+R15
+!s100 jgT=8dl<AOdzfEX3bgn>E2
+!i10b 1
+Abehavioral
+R5
+R6
+DEx4 work 7 fulladd 0 22 RH_eY=igW?^mR8;ZEd5_62
+l50
+L48
+Vikf7R1oTjQ;O:>8@W[EaM0
+R10
+32
+R19
+R20
+R21
+R14
+R15
+!s100 d2F1Ah[4k_f0lM3Q72nXR0
+!i10b 1

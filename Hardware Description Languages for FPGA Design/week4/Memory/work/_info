@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/admin/Desktop/fpga/week4/Binary_counter/AAC2M4P1
+vAAC2M4P2_tb
+!s110 1606437311
+!i10b 1
+!s100 9li01h<P5A3g>?BBjD@al1
+ISGhI1M=CO:o6Le@6If<IZ1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/admin/Desktop/fpga/week4/Memory
+w1573415640
+8C:/Users/admin/Desktop/fpga/week4/Memory/AAC2M4P2_tb.vp
+FC:/Users/admin/Desktop/fpga/week4/Memory/AAC2M4P2_tb.vp
+L0 65
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1606437310.000000
+!s107 C:/Users/admin/Desktop/fpga/week4/Memory/AAC2M4P2_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/admin/Desktop/fpga/week4/Memory/AAC2M4P2_tb.vp|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@a@a@c2@m4@p2_tb
+vRAM128x32
+!s110 1606437849
+!i10b 1
+!s100 ENEFT^n[lf^WBQV;8eK2:0
+IeBCZgYZ9PAZQ:CcS<SMNF1
+R0
+R1
+w1606437839
+8C:\Users\admin\Desktop\fpga\week4\Memory\AAC2M4P2.v
+FC:\Users\admin\Desktop\fpga\week4\Memory\AAC2M4P2.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1606437849.000000
+!s107 C:\Users\admin\Desktop\fpga\week4\Memory\AAC2M4P2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\admin\Desktop\fpga\week4\Memory\AAC2M4P2.v|
+!i113 1
+R3
+R4
+n@r@a@m128x32

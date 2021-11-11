@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\admin\Desktop\week1\comparateur
+Eaac2m1p4_tb
+Z0 w1573328400
+Z1 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\admin\Desktop\week1\majority
+Z6 8C:/Users/admin/Desktop/week1/majority/AAC2M1P4_tb.vhd
+Z7 FC:/Users/admin/Desktop/week1/majority/AAC2M1P4_tb.vhd
+l0
+L53
+V]MF71f@LiJ`QF_KC5:85P2
+!s100 0ePM72odoE@5hKjA7NheG0
+Z8 OV;C;10.1d;51
+32
+!i10b 1
+Z9 !s108 1604177237.964000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/admin/Desktop/week1/majority/AAC2M1P4_tb.vhd|
+Z11 !s107 C:/Users/admin/Desktop/week1/majority/AAC2M1P4_tb.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 11 aac2m1p4_tb 0 22 ]MF71f@LiJ`QF_KC5:85P2
+l132
+L61
+V4_C2F6Dd]^nz?@I`[aX_e3
+!s100 8n?o4gV0?oObA;oF2o;UG1
+R8
+32
+!i10b 1
+R9
+R10
+R11
+R12
+R13
+Emajority
+Z14 w1604176761
+R3
+R4
+R5
+Z15 8C:/Users/admin/Desktop/week1/majority/AAC2M1P4.vhd
+Z16 FC:/Users/admin/Desktop/week1/majority/AAC2M1P4.vhd
+l0
+L41
+V7No8oUd3]A?MoiF52dXPI2
+R8
+32
+Z17 !s108 1604177237.698000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/admin/Desktop/week1/majority/AAC2M1P4.vhd|
+Z19 !s107 C:/Users/admin/Desktop/week1/majority/AAC2M1P4.vhd|
+R12
+R13
+!s100 m[EE@Gi]]:j`e:3hd]7Tz0
+!i10b 1
+Abehavioral
+R3
+R4
+DEx4 work 8 majority 0 22 7No8oUd3]A?MoiF52dXPI2
+l49
+L46
+VYC_H9gQL3eOH?S:oQ98d03
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 lL1^cloYePC[FKQ6K7Xoa3
+!i10b 1

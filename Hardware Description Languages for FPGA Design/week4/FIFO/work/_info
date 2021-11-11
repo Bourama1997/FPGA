@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/admin/Desktop/fpga/week4/ALU
+vAAC2M4H2_tb
+!s110 1606440673
+!i10b 1
+!s100 j_2`Vfj]V7OZNeUZBElHL0
+Iji1U54eL8J=bNoEO1A@h_0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/admin/Desktop/fpga/week4/FIFO
+w1573417018
+8C:/Users/admin/Desktop/fpga/week4/FIFO/AAC2M4H2_tb.vp
+FC:/Users/admin/Desktop/fpga/week4/FIFO/AAC2M4H2_tb.vp
+L0 65
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1606440672.000000
+!s107 C:/Users/admin/Desktop/fpga/week4/FIFO/AAC2M4H2_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/admin/Desktop/fpga/week4/FIFO/AAC2M4H2_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m4@h2_tb
+vFIFO8x9
+!s110 1606440672
+!i10b 1
+!s100 i3@VZM1WPWf3Yf4LJ1S^O3
+IJzB6bi72F8fS??^4[K<a;1
+R0
+R1
+w1606440536
+8C:/Users/admin/Desktop/fpga/week4/FIFO/AAC2M4H2.v
+FC:/Users/admin/Desktop/fpga/week4/FIFO/AAC2M4H2.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/admin/Desktop/fpga/week4/FIFO/AAC2M4H2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/admin/Desktop/fpga/week4/FIFO/AAC2M4H2.v|
+!i113 1
+R4
+R5
+n@f@i@f@o8x9

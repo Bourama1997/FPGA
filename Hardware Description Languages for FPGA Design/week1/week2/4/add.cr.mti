@@ -1,0 +1,22 @@
+C:/Users/admin/Desktop/fpga/week1/week2/4/AAC2M3H1_tb.vp {1 {vlog -work work {C:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1_tb.vp}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AAC2M3H1_tb
+
+Top level modules:
+	AAC2M3H1_tb
+
+} {} {}} C:/Users/admin/Desktop/fpga/week1/week2/4/adder_1_bit.v {1 {vlog -work work C:/Users/admin/Desktop/fpga/week1/week2/4/adder_1_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder_1bit
+
+Top level modules:
+	Adder_1bit
+
+} {} {}} C:/Users/admin/Desktop/fpga/week1/week2/4/AAC2M3H1.v {1 {vlog -work work {C:\Users\admin\Desktop\fpga\week1\week2\4\AAC2M3H1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FullAdd4
+
+Top level modules:
+	FullAdd4
+
+} {} {}}

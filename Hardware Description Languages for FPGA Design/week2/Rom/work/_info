@@ -1,0 +1,101 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0
+Eaac2m2p2_tb
+Z0 w1573335322
+Z1 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+Z2 DPx4 ieee 20 numeric_bit_unsigned 0 22 kCB=mIJBCTn3SQ`:@@^T90
+Z3 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\admin\Desktop\fpga\week2\Rom
+Z7 8C:/Users/admin/Desktop/fpga/week2/Rom/AAC2M2P2_tb.vhdp
+Z8 FC:/Users/admin/Desktop/fpga/week2/Rom/AAC2M2P2_tb.vhdp
+l0
+L53
+Vcj8Z?3Bk=]KRc:>ACZ_K63
+Z9 OV;C;10.1d;51
+32
+Z10 !s108 1605297401.546000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/admin/Desktop/fpga/week2/Rom/AAC2M2P2_tb.vhdp|
+Z12 !s107 C:/Users/admin/Desktop/fpga/week2/Rom/AAC2M2P2_tb.vhdp|
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+!s100 =k@R>7WWHQ8VjTIU?jLKI3
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 11 aac2m2p2_tb 0 22 cj8Z?3Bk=]KRc:>ACZ_K63
+l139
+L61
+VoTV>NBjC^[m;09lQYGXHC2
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 coPAUSXgS==g^^Ti4lVd12
+!i10b 1
+Eram128_32
+Z15 w1605298751
+R3
+R4
+R5
+R6
+Z16 8C:\Users\admin\Desktop\fpga\week2\Rom\AAC2M2P2.vhd
+Z17 FC:\Users\admin\Desktop\fpga\week2\Rom\AAC2M2P2.vhd
+l0
+L6
+VZTMiZNZAKH5=_GPRRBXP?2
+!s100 U1Y_>5dNi>ne6F3iW@8kB1
+R9
+32
+!i10b 1
+Z18 !s108 1605298771.349000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\admin\Desktop\fpga\week2\Rom\AAC2M2P2.vhd|
+Z20 !s107 C:\Users\admin\Desktop\fpga\week2\Rom\AAC2M2P2.vhd|
+R13
+R14
+Abehavioural
+R3
+R4
+R5
+Z21 DEx4 work 9 ram128_32 0 22 ZTMiZNZAKH5=_GPRRBXP?2
+l24
+L18
+Vc[G=jFHGd2oWRY6ZB:1be0
+!s100 gmJ?@K^f_;b7G@j3:[W5>3
+R9
+32
+!i10b 1
+R18
+R19
+R20
+R13
+R14
+Aarch1
+R3
+R4
+R5
+R21
+l22
+L18
+VP8BI3ZIbJ78R>[ieEgUl02
+R9
+32
+!s108 1605298576.396000
+R19
+!s107 C:\Users\admin\Desktop\fpga\week2\Rom\AAC2M2P2.vhd|
+R13
+R14
+w1605298569
+!s100 I@]@klj4?n5A_?5gh6IeE2
+!i10b 1
